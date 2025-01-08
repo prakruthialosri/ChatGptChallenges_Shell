@@ -1,0 +1,5 @@
+This is a sample text file.
+This file contains some sample words.
+We are counting the word "sample" in this file.
+The word "sample" appears multiple times in this file.
+

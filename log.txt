@@ -1,0 +1,39 @@
+No o files are : 33
+-rw-rw-r-- 1 ubuntu ubuntu    0 Jan  8 10:23 10
+-rw-rw-r-- 1 ubuntu ubuntu    0 Jan  8 10:23 8
+-rw-rw-r-- 1 ubuntu ubuntu    0 Jan  8 10:23 9
+ there is new file : 
+No o files are : 36
+No o files are : 36
+-rw-rw-r-- 1 ubuntu ubuntu    0 Jan  8 10:24 1
+-rw-rw-r-- 1 ubuntu ubuntu    0 Jan  8 10:24 2
+-rw-rw-r-- 1 ubuntu ubuntu    0 Jan  8 10:24 4
+ there is new file : 
+No o files are : 39
+No o files are : 39
+No o files are : 39
+No o files are : 39
+No o files are : 39
+No o files are : 39
+-rw-rw-r-- 1 ubuntu ubuntu    0 Jan  8 10:27 2
+ there is new file : 
+No o files are : 40
+No o files are : 40
+-rw-rw-r-- 1 ubuntu ubuntu    0 Jan  8 10:28 88
+-rw-rw-r-- 1 ubuntu ubuntu    0 Jan  8 10:28 89
+ there is new file : 
+No o files are : 42
+No o files are : 42
+No o files are : 42
+No o files are : 42
+ there is new files : -rw-rw-r-- 1 ubuntu ubuntu    0 Jan  8 10:30 77
+-rw-rw-r-- 1 ubuntu ubuntu    0 Jan  8 10:30 778
+No o files are : 44
+No o files are : 44
+No o files are : 45
+ there is new files in direc : gggg
+No o files are : 46
+ there is new files in direc : gggf
+gghj
+ggkl
+No o files are : 49
