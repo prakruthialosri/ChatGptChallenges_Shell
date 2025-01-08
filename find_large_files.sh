@@ -13,7 +13,7 @@ if [ ! -e $directory ] || [ ! -r $directory ];then
 	exit 1
 fi
 
-byte=$(($sizes / 1024 * 1024))
+byte=$((sizes / 1024 * 1024))
 
 echo "byte is $byte"
 
