@@ -5,7 +5,9 @@ end_time=$2
 
 #declararion started
 logfile="httpd.logs"
+#this is log file generated from script
 Logfile="Deatails.log"
+#thi is the Report containing  good results.
 Report="Report.txt"
 succ_count=0
 failure_count=0
